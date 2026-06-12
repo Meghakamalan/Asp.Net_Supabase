@@ -1,0 +1,562 @@
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/appsettings.Development.json
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/appsettings.json
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/Project sem2.staticwebassets.runtime.json
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/Project sem2.staticwebassets.endpoints.json
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/Project sem2.exe
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/Project sem2.deps.json
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/Project sem2.runtimeconfig.json
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/Project sem2.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/Project sem2.pdb
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/Humanizer.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/Microsoft.Build.Locator.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/Microsoft.CodeAnalysis.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/Mono.TextTemplating.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/System.CodeDom.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/System.Composition.AttributedModel.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/System.Composition.Convention.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/System.Composition.Hosting.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/System.Composition.Runtime.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/System.Composition.TypedParts.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/Project sem2.csproj.AssemblyReference.cache
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/rpswa.dswa.cache.json
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/Project sem2.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/Project sem2.AssemblyInfoInputs.cache
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/Project sem2.AssemblyInfo.cs
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/Project sem2.csproj.CoreCompileInputs.cache
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/Project sem2.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/Project sem2.RazorAssemblyInfo.cache
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/Project sem2.RazorAssemblyInfo.cs
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/rjimswa.dswa.cache.json
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/scopedcss/bundle/Project sem2.styles.css
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/scopedcss/projectbundle/Project sem2.bundle.scp.css
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/staticwebassets.build.json
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/staticwebassets.build.json.cache
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/staticwebassets.development.json
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/swae.build.ex.cache
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/staticwebassets.upToDateCheck.txt
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/Project sem2.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/refint/Project sem2.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/Project sem2.pdb
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/Project sem2.genruntimeconfig.cache
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/ref/Project sem2.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/Npgsql.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/bin/Debug/net10.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/p51sezc6ju-{0}-b9sayid5wm-b9sayid5wm.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/iv2i37nk8m-{0}-61n19gt1b8-61n19gt1b8.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/g2lf20o6x4-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/hc2iyulbu9-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/n6e9pv2i1z-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/bm19btebe1-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/o8tf6jrlwb-{0}-aexeepp0ev-aexeepp0ev.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/aqijtrvetr-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/uuh9etvr56-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/50b11jcek7-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/55zu4edaym-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/b5mb4lj8kd-{0}-ub07r2b239-ub07r2b239.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/iljt2o1f7y-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/4qaujq22tj-{0}-b7pk76d08c-b7pk76d08c.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/8mcqjuqijo-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/sqx7bm424y-{0}-rzd6atqjts-rzd6atqjts.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/x8v7aacr8i-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/7a2hk7kcwx-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/onzdij3av8-{0}-jd9uben2k1-jd9uben2k1.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/jpjfo5zpbj-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/qqnse8gga0-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/0revnpmqcw-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/wo8y389gbg-{0}-c2oey78nd0-c2oey78nd0.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/708yv96g89-{0}-tdbxkamptv-tdbxkamptv.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/jvghdk5ho9-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/t13907mhg0-{0}-06098lyss8-06098lyss8.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/7whal5nwkm-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/ydem9immtt-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/khixpjs1e9-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/trzbyeawli-{0}-46ein0sx1k-46ein0sx1k.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/tw48qald1d-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/oik7co6gxa-{0}-37tfw0ft22-37tfw0ft22.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/efs1pp0df8-{0}-hrwsygsryq-hrwsygsryq.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/kyge9o0fxb-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/dyueeatq19-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/cz69npayzq-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/nrb768pbwd-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/vo379xccrq-{0}-493y06b0oq-493y06b0oq.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/nq7qnsvfjg-{0}-iovd86k7lj-iovd86k7lj.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/zd6ohh5foe-{0}-vr1egmr9el-vr1egmr9el.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/hu9fkrc300-{0}-kbrnm935zg-kbrnm935zg.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/bmf9d83i5d-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/abnade7z4x-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/apkzgau8c3-{0}-notf2xhcfb-notf2xhcfb.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/smhnwu70fm-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/jlc8kmdg8c-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/ifln0ri7gn-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/vr9zmm7a89-{0}-47otxtyo56-47otxtyo56.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/6qwgy7ojfu-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/j7w08om0ph-{0}-356vix0kms-356vix0kms.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/zq3pbzylt3-{0}-83jwlth58m-83jwlth58m.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/pmfqfi94d8-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/umbrjmsff2-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/4gxnx46z9i-{0}-ag7o75518u-ag7o75518u.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/i3vvm1yrxa-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/s66tx6fypt-{0}-0i3buxo5is-0i3buxo5is.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/n7fepqa95a-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/fnuejpfgl4-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/bf8hrnix65-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/4y0pwb46d8-{0}-muycvpuwrr-muycvpuwrr.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/0npzpa4l75-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/1t1zw5lbbb-{0}-mlv21k5csn-mlv21k5csn.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/g1qmgngd1t-{0}-0vk1005uci-0vk1005uci.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/compressed/oljaq25p0q-{0}-0vk1005uci-0vk1005uci.gz
+C:/Users/kanti/Desktop/Back-end2/Project sem2/Project sem2/obj/Debug/net10.0/Project .5F9D783D.Up2Date
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/appsettings.Development.json
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/appsettings.json
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/Project sem2.staticwebassets.runtime.json
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/Project sem2.staticwebassets.endpoints.json
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/Project sem2
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/Project sem2.deps.json
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/Project sem2.runtimeconfig.json
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/Project sem2.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/Project sem2.pdb
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/Humanizer.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/Microsoft.Build.Locator.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/Microsoft.CodeAnalysis.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/Microsoft.Extensions.DependencyModel.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/Mono.TextTemplating.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/Npgsql.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/System.CodeDom.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/System.Composition.AttributedModel.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/System.Composition.Convention.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/System.Composition.Hosting.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/System.Composition.Runtime.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/System.Composition.TypedParts.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/Project sem2.csproj.AssemblyReference.cache
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/rpswa.dswa.cache.json
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/Project sem2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/Project sem2.AssemblyInfoInputs.cache
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/Project sem2.AssemblyInfo.cs
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/Project sem2.csproj.CoreCompileInputs.cache
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/Project sem2.MvcApplicationPartsAssemblyInfo.cache
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/Project sem2.RazorAssemblyInfo.cache
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/Project sem2.RazorAssemblyInfo.cs
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/scopedcss/bundle/Project sem2.styles.css
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/scopedcss/projectbundle/Project sem2.bundle.scp.css
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/p51sezc6ju-{0}-b9sayid5wm-b9sayid5wm.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/iv2i37nk8m-{0}-61n19gt1b8-61n19gt1b8.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/g2lf20o6x4-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/hc2iyulbu9-{0}-bqjiyaj88i-bqjiyaj88i.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/n6e9pv2i1z-{0}-c2jlpeoesf-c2jlpeoesf.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/bm19btebe1-{0}-erw9l3u2r3-erw9l3u2r3.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/o8tf6jrlwb-{0}-aexeepp0ev-aexeepp0ev.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/aqijtrvetr-{0}-d7shbmvgxk-d7shbmvgxk.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/uuh9etvr56-{0}-ausgxo2sd3-ausgxo2sd3.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/50b11jcek7-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/55zu4edaym-{0}-cosvhxvwiu-cosvhxvwiu.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/b5mb4lj8kd-{0}-ub07r2b239-ub07r2b239.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/iljt2o1f7y-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/4qaujq22tj-{0}-b7pk76d08c-b7pk76d08c.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/8mcqjuqijo-{0}-fsbi9cje9m-fsbi9cje9m.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/sqx7bm424y-{0}-rzd6atqjts-rzd6atqjts.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/x8v7aacr8i-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/7a2hk7kcwx-{0}-dxx9fxp4il-dxx9fxp4il.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/onzdij3av8-{0}-jd9uben2k1-jd9uben2k1.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/jpjfo5zpbj-{0}-khv3u5hwcm-khv3u5hwcm.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/qqnse8gga0-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/0revnpmqcw-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/wo8y389gbg-{0}-c2oey78nd0-c2oey78nd0.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/708yv96g89-{0}-tdbxkamptv-tdbxkamptv.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/jvghdk5ho9-{0}-j5mq2jizvt-j5mq2jizvt.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/t13907mhg0-{0}-06098lyss8-06098lyss8.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/7whal5nwkm-{0}-nvvlpmu67g-nvvlpmu67g.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/ydem9immtt-{0}-s35ty4nyc5-s35ty4nyc5.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/khixpjs1e9-{0}-pj5nd1wqec-pj5nd1wqec.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/trzbyeawli-{0}-46ein0sx1k-46ein0sx1k.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/tw48qald1d-{0}-v0zj4ognzu-v0zj4ognzu.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/oik7co6gxa-{0}-37tfw0ft22-37tfw0ft22.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/efs1pp0df8-{0}-hrwsygsryq-hrwsygsryq.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/kyge9o0fxb-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/dyueeatq19-{0}-ft3s53vfgj-ft3s53vfgj.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/cz69npayzq-{0}-6cfz1n2cew-6cfz1n2cew.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/nrb768pbwd-{0}-6pdc2jztkx-6pdc2jztkx.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/vo379xccrq-{0}-493y06b0oq-493y06b0oq.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/nq7qnsvfjg-{0}-iovd86k7lj-iovd86k7lj.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/zd6ohh5foe-{0}-vr1egmr9el-vr1egmr9el.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/hu9fkrc300-{0}-kbrnm935zg-kbrnm935zg.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/bmf9d83i5d-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/abnade7z4x-{0}-y7v9cxd14o-y7v9cxd14o.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/apkzgau8c3-{0}-notf2xhcfb-notf2xhcfb.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/smhnwu70fm-{0}-h1s4sie4z3-h1s4sie4z3.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/jlc8kmdg8c-{0}-63fj8s7r0e-63fj8s7r0e.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/ifln0ri7gn-{0}-0j3bgjxly4-0j3bgjxly4.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/vr9zmm7a89-{0}-47otxtyo56-47otxtyo56.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/6qwgy7ojfu-{0}-4v8eqarkd7-4v8eqarkd7.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/j7w08om0ph-{0}-356vix0kms-356vix0kms.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/zq3pbzylt3-{0}-83jwlth58m-83jwlth58m.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/pmfqfi94d8-{0}-mrlpezrjn3-mrlpezrjn3.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/umbrjmsff2-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/4gxnx46z9i-{0}-ag7o75518u-ag7o75518u.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/i3vvm1yrxa-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/s66tx6fypt-{0}-0i3buxo5is-0i3buxo5is.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/n7fepqa95a-{0}-o1o13a6vjx-o1o13a6vjx.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/fnuejpfgl4-{0}-ttgo8qnofa-ttgo8qnofa.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/bf8hrnix65-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/4y0pwb46d8-{0}-muycvpuwrr-muycvpuwrr.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/0npzpa4l75-{0}-87fc7y1x7t-87fc7y1x7t.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/1t1zw5lbbb-{0}-mlv21k5csn-mlv21k5csn.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/g1qmgngd1t-{0}-ls2tn4nqks-ls2tn4nqks.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/compressed/oljaq25p0q-{0}-ls2tn4nqks-ls2tn4nqks.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/staticwebassets.build.json
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/staticwebassets.build.json.cache
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/staticwebassets.development.json
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/swae.build.ex.cache
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/Project .5F9D783D.Up2Date
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/Project sem2.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/refint/Project sem2.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/Project sem2.pdb
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/Project sem2.genruntimeconfig.cache
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Emmey_Projectsem2/Project sem2/obj/Debug/net10.0/ref/Project sem2.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/appsettings.Development.json
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/Project sem2.staticwebassets.endpoints.json
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/appsettings.json
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/Project sem2.staticwebassets.runtime.json
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/Project sem2
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/Project sem2.deps.json
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/Project sem2.runtimeconfig.json
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/Project sem2.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/Project sem2.pdb
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/Humanizer.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/Microsoft.Build.Locator.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/Microsoft.CodeAnalysis.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/Microsoft.Extensions.DependencyModel.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/Mono.TextTemplating.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/Npgsql.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/System.CodeDom.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/System.Composition.AttributedModel.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/System.Composition.Convention.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/System.Composition.Hosting.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/System.Composition.Runtime.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/System.Composition.TypedParts.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/Project sem2.csproj.AssemblyReference.cache
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/rpswa.dswa.cache.json
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/Project sem2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/Project sem2.AssemblyInfoInputs.cache
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/Project sem2.AssemblyInfo.cs
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/Project sem2.csproj.CoreCompileInputs.cache
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/Project sem2.MvcApplicationPartsAssemblyInfo.cache
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/Project sem2.RazorAssemblyInfo.cache
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/Project sem2.RazorAssemblyInfo.cs
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/scopedcss/bundle/Project sem2.styles.css
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/scopedcss/projectbundle/Project sem2.bundle.scp.css
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/p51sezc6ju-{0}-b9sayid5wm-b9sayid5wm.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/iv2i37nk8m-{0}-61n19gt1b8-61n19gt1b8.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/g2lf20o6x4-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/hc2iyulbu9-{0}-bqjiyaj88i-bqjiyaj88i.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/n6e9pv2i1z-{0}-c2jlpeoesf-c2jlpeoesf.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/bm19btebe1-{0}-erw9l3u2r3-erw9l3u2r3.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/o8tf6jrlwb-{0}-aexeepp0ev-aexeepp0ev.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/aqijtrvetr-{0}-d7shbmvgxk-d7shbmvgxk.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/uuh9etvr56-{0}-ausgxo2sd3-ausgxo2sd3.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/50b11jcek7-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/55zu4edaym-{0}-cosvhxvwiu-cosvhxvwiu.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/b5mb4lj8kd-{0}-ub07r2b239-ub07r2b239.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/iljt2o1f7y-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/4qaujq22tj-{0}-b7pk76d08c-b7pk76d08c.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/8mcqjuqijo-{0}-fsbi9cje9m-fsbi9cje9m.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/sqx7bm424y-{0}-rzd6atqjts-rzd6atqjts.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/x8v7aacr8i-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/7a2hk7kcwx-{0}-dxx9fxp4il-dxx9fxp4il.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/onzdij3av8-{0}-jd9uben2k1-jd9uben2k1.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/jpjfo5zpbj-{0}-khv3u5hwcm-khv3u5hwcm.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/qqnse8gga0-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/0revnpmqcw-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/wo8y389gbg-{0}-c2oey78nd0-c2oey78nd0.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/708yv96g89-{0}-tdbxkamptv-tdbxkamptv.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/jvghdk5ho9-{0}-j5mq2jizvt-j5mq2jizvt.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/t13907mhg0-{0}-06098lyss8-06098lyss8.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/7whal5nwkm-{0}-nvvlpmu67g-nvvlpmu67g.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/ydem9immtt-{0}-s35ty4nyc5-s35ty4nyc5.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/khixpjs1e9-{0}-pj5nd1wqec-pj5nd1wqec.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/trzbyeawli-{0}-46ein0sx1k-46ein0sx1k.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/tw48qald1d-{0}-v0zj4ognzu-v0zj4ognzu.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/oik7co6gxa-{0}-37tfw0ft22-37tfw0ft22.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/efs1pp0df8-{0}-hrwsygsryq-hrwsygsryq.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/kyge9o0fxb-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/dyueeatq19-{0}-ft3s53vfgj-ft3s53vfgj.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/cz69npayzq-{0}-6cfz1n2cew-6cfz1n2cew.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/nrb768pbwd-{0}-6pdc2jztkx-6pdc2jztkx.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/vo379xccrq-{0}-493y06b0oq-493y06b0oq.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/nq7qnsvfjg-{0}-iovd86k7lj-iovd86k7lj.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/zd6ohh5foe-{0}-vr1egmr9el-vr1egmr9el.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/hu9fkrc300-{0}-kbrnm935zg-kbrnm935zg.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/bmf9d83i5d-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/abnade7z4x-{0}-y7v9cxd14o-y7v9cxd14o.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/apkzgau8c3-{0}-notf2xhcfb-notf2xhcfb.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/smhnwu70fm-{0}-h1s4sie4z3-h1s4sie4z3.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/jlc8kmdg8c-{0}-63fj8s7r0e-63fj8s7r0e.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/ifln0ri7gn-{0}-0j3bgjxly4-0j3bgjxly4.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/vr9zmm7a89-{0}-47otxtyo56-47otxtyo56.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/6qwgy7ojfu-{0}-4v8eqarkd7-4v8eqarkd7.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/j7w08om0ph-{0}-356vix0kms-356vix0kms.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/zq3pbzylt3-{0}-83jwlth58m-83jwlth58m.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/pmfqfi94d8-{0}-mrlpezrjn3-mrlpezrjn3.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/umbrjmsff2-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/4gxnx46z9i-{0}-ag7o75518u-ag7o75518u.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/i3vvm1yrxa-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/s66tx6fypt-{0}-0i3buxo5is-0i3buxo5is.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/n7fepqa95a-{0}-o1o13a6vjx-o1o13a6vjx.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/fnuejpfgl4-{0}-ttgo8qnofa-ttgo8qnofa.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/bf8hrnix65-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/4y0pwb46d8-{0}-muycvpuwrr-muycvpuwrr.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/0npzpa4l75-{0}-87fc7y1x7t-87fc7y1x7t.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/1t1zw5lbbb-{0}-mlv21k5csn-mlv21k5csn.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/g1qmgngd1t-{0}-ls2tn4nqks-ls2tn4nqks.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/compressed/oljaq25p0q-{0}-ls2tn4nqks-ls2tn4nqks.gz
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/staticwebassets.build.json
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/staticwebassets.build.json.cache
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/staticwebassets.development.json
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/swae.build.ex.cache
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/Project .5F9D783D.Up2Date
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/Project sem2.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/refint/Project sem2.dll
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/Project sem2.pdb
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/Project sem2.genruntimeconfig.cache
+/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/Debug/net10.0/ref/Project sem2.dll

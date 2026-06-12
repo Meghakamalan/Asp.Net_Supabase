@@ -1,0 +1,20 @@
+@model Project_sem2.Models.Massage
+
+
+<form asp-controller="Massage" asp-action="AddMassage" method="post">
+	<div>
+		<label asp-for="Name">Name: </label>
+		<input asp-for="Name">
+	</div>
+
+	<div>
+		<label asp-for="Price">Price: </label>
+		<input asp-for="Price">
+	</div>
+
+	<button type="submit">Submit</button>
+
+
+</form>
+
+
