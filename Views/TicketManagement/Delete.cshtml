@@ -1,0 +1,189 @@
+@model TicketTracker.Models.Ticket
+
+@{
+    ViewData["Title"] = "Delete Ticket";
+}
+
+<div class="delete-container">
+
+    <div class="delete-card">
+
+        <div class="warning-icon">
+            !
+        </div>
+
+        <h1>Delete Ticket?</h1>
+
+        <p class="warning-text">
+            Are you sure you want to permanently delete
+            this ticket?
+        </p>
+
+
+        <div class="ticket-details">
+
+            <div>
+                <span>Route</span>
+
+                <strong>
+                    @Model.FromTown.Name
+                    →
+                    @Model.ToTown.Name
+                </strong>
+            </div>
+
+
+            <div>
+                <span>Airline</span>
+
+                <strong>
+                    @Model.Airline
+                </strong>
+            </div>
+
+
+            <div>
+                <span>Price</span>
+
+                <strong>
+                    $@Model.Price.ToString("0.00")
+                </strong>
+            </div>
+
+
+            <div>
+                <span>Duration</span>
+
+                <strong>
+                    @Model.DurationHours hours
+                </strong>
+            </div>
+
+        </div>
+
+
+        <form asp-action="Delete"
+              method="post"
+              class="delete-actions">
+
+            @Html.AntiForgeryToken()
+
+            <input type="hidden"
+                   asp-for="Id" />
+
+            <a asp-action="Index"
+               class="cancel-btn">
+                Cancel
+            </a>
+
+            <button type="submit"
+                    class="delete-confirm-btn">
+                Yes, Delete Ticket
+            </button>
+
+        </form>
+
+    </div>
+
+</div>
+
+
+<style>
+
+    .delete-container {
+        max-width: 600px;
+        margin: 0 auto;
+        padding: 60px 20px;
+        font-family:
+            -apple-system,
+            BlinkMacSystemFont,
+            "Segoe UI",
+            Roboto,
+            sans-serif;
+    }
+
+    .delete-card {
+        background: white;
+        border: 1px solid #e2e8f0;
+        border-radius: 12px;
+        padding: 35px;
+        text-align: center;
+    }
+
+    .warning-icon {
+        width: 50px;
+        height: 50px;
+        margin: 0 auto 20px;
+        border-radius: 50%;
+        background: #fee2e2;
+        color: #dc2626;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 1.5rem;
+        font-weight: bold;
+    }
+
+    .delete-card h1 {
+        color: #1e293b;
+    }
+
+    .warning-text {
+        color: #64748b;
+        margin-bottom: 25px;
+    }
+
+    .ticket-details {
+        background: #f8fafc;
+        border-radius: 8px;
+        padding: 20px;
+        text-align: left;
+        margin-bottom: 25px;
+    }
+
+    .ticket-details div {
+        display: flex;
+        justify-content: space-between;
+        padding: 9px 0;
+        border-bottom: 1px solid #e2e8f0;
+    }
+
+    .ticket-details div:last-child {
+        border-bottom: none;
+    }
+
+    .ticket-details span {
+        color: #64748b;
+    }
+
+    .ticket-details strong {
+        color: #334155;
+    }
+
+    .delete-actions {
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+    }
+
+    .cancel-btn,
+    .delete-confirm-btn {
+        padding: 11px 18px;
+        border-radius: 6px;
+        text-decoration: none;
+        border: none;
+        font-weight: 600;
+        cursor: pointer;
+    }
+
+    .cancel-btn {
+        background: #e2e8f0;
+        color: #334155;
+    }
+
+    .delete-confirm-btn {
+        background: #dc2626;
+        color: white;
+    }
+
+</style>

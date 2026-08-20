@@ -1,0 +1,240 @@
+@model List<TicketTracker.Models.Ticket>
+
+@{
+    ViewData["Title"] = "Manage Tickets";
+}
+
+<div class="management-container">
+
+    <div class="page-header">
+
+        <div>
+            <h1>Manage Tickets</h1>
+
+            <p>
+                Add, edit, view and delete flight ticket information.
+            </p>
+        </div>
+
+        <a asp-action="Create"
+           class="btn-primary-custom">
+            + Add Ticket
+        </a>
+
+    </div>
+
+
+    @if (TempData["Success"] != null)
+    {
+        <div class="success-message">
+            @TempData["Success"]
+        </div>
+    }
+
+
+    @if (!Model.Any())
+    {
+        <div class="empty-state">
+            <h3>No tickets found</h3>
+
+            <p>
+                Start by adding a new flight ticket.
+            </p>
+
+            <a asp-action="Create"
+               class="btn-primary-custom">
+                Add Ticket
+            </a>
+        </div>
+    }
+    else
+    {
+        <div class="table-container">
+
+            <table class="ticket-table">
+
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>From</th>
+                        <th>To</th>
+                        <th>Airline</th>
+                        <th>Price</th>
+                        <th>Duration</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+
+                    @foreach (var ticket in Model)
+                    {
+                        <tr>
+
+                            <td>
+                                @ticket.Id
+                            </td>
+
+                            <td>
+                                @ticket.FromTown.Name
+                            </td>
+
+                            <td>
+                                @ticket.ToTown.Name
+                            </td>
+
+                            <td>
+                                @ticket.Airline
+                            </td>
+
+                            <td>
+                                $@ticket.Price.ToString("0.00")
+                            </td>
+
+                            <td>
+                                @ticket.DurationHours hrs
+                            </td>
+
+                            <td class="action-buttons">
+
+                                <a asp-action="Edit"
+                                   asp-route-id="@ticket.Id"
+                                   class="edit-btn">
+                                    Edit
+                                </a>
+
+                                <a asp-action="Delete"
+                                   asp-route-id="@ticket.Id"
+                                   class="delete-btn">
+                                    Delete
+                                </a>
+
+                            </td>
+
+                        </tr>
+                    }
+
+                </tbody>
+
+            </table>
+
+        </div>
+    }
+
+</div>
+
+
+<style>
+
+    .management-container {
+        max-width: 1100px;
+        margin: 0 auto;
+        padding: 40px 20px;
+        font-family:
+            -apple-system,
+            BlinkMacSystemFont,
+            "Segoe UI",
+            Roboto,
+            sans-serif;
+    }
+
+    .page-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 30px;
+    }
+
+    .page-header h1 {
+        margin: 0 0 5px;
+        color: #1e293b;
+    }
+
+    .page-header p {
+        margin: 0;
+        color: #64748b;
+    }
+
+    .btn-primary-custom {
+        background: #0071c5;
+        color: white;
+        text-decoration: none;
+        padding: 11px 18px;
+        border-radius: 7px;
+        font-weight: 600;
+        display: inline-block;
+    }
+
+    .btn-primary-custom:hover {
+        background: #005a9c;
+        color: white;
+    }
+
+    .success-message {
+        background: #dcfce7;
+        color: #166534;
+        padding: 12px 16px;
+        border-radius: 7px;
+        margin-bottom: 20px;
+    }
+
+    .table-container {
+        overflow-x: auto;
+        background: white;
+        border: 1px solid #e2e8f0;
+        border-radius: 10px;
+    }
+
+    .ticket-table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+    .ticket-table th {
+        background: #f1f5f9;
+        color: #334155;
+        text-align: left;
+        padding: 14px;
+    }
+
+    .ticket-table td {
+        padding: 14px;
+        border-top: 1px solid #e2e8f0;
+    }
+
+    .ticket-table tr:hover {
+        background: #f8fafc;
+    }
+
+    .action-buttons {
+        white-space: nowrap;
+    }
+
+    .edit-btn,
+    .delete-btn {
+        text-decoration: none;
+        padding: 6px 10px;
+        border-radius: 5px;
+        font-size: 0.85rem;
+        font-weight: 600;
+        margin-right: 5px;
+    }
+
+    .edit-btn {
+        background: #fef3c7;
+        color: #92400e;
+    }
+
+    .delete-btn {
+        background: #fee2e2;
+        color: #b91c1c;
+    }
+
+    .empty-state {
+        text-align: center;
+        padding: 60px 20px;
+        border: 1px dashed #cbd5e1;
+        border-radius: 10px;
+    }
+
+</style>

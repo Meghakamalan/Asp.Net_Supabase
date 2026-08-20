@@ -1,0 +1,260 @@
+@model TicketTracker.Models.Ticket
+
+@{
+    ViewData["Title"] = "Edit Ticket";
+}
+
+<div class="form-container">
+
+    <div class="form-header">
+        <h1>Edit Ticket</h1>
+
+        <p>
+            Update the information for this flight connection.
+        </p>
+    </div>
+
+
+    <form asp-action="Edit"
+          method="post"
+          class="ticket-form">
+
+        @Html.AntiForgeryToken()
+
+        <input type="hidden"
+               asp-for="Id" />
+
+
+        <div asp-validation-summary="ModelOnly"
+             class="validation-summary">
+        </div>
+
+
+        <div class="form-row">
+
+            <div class="form-group">
+
+                <label asp-for="FromTownId">
+                    Flying From
+                </label>
+
+                <select asp-for="FromTownId"
+                        asp-items="ViewBag.Towns"
+                        class="form-control">
+
+                    <option value="">
+                        Select departure town
+                    </option>
+
+                </select>
+
+                <span asp-validation-for="FromTownId"
+                      class="field-error">
+                </span>
+
+            </div>
+
+
+            <div class="form-group">
+
+                <label asp-for="ToTownId">
+                    Flying To
+                </label>
+
+                <select asp-for="ToTownId"
+                        asp-items="ViewBag.Towns"
+                        class="form-control">
+
+                    <option value="">
+                        Select destination town
+                    </option>
+
+                </select>
+
+                <span asp-validation-for="ToTownId"
+                      class="field-error">
+                </span>
+
+            </div>
+
+        </div>
+
+
+        <div class="form-group">
+
+            <label asp-for="Airline">
+                Airline
+            </label>
+
+            <input asp-for="Airline"
+                   class="form-control" />
+
+            <span asp-validation-for="Airline"
+                  class="field-error">
+            </span>
+
+        </div>
+
+
+        <div class="form-row">
+
+            <div class="form-group">
+
+                <label asp-for="Price">
+                    Ticket Price
+                </label>
+
+                <input asp-for="Price"
+                       type="number"
+                       step="0.01"
+                       class="form-control" />
+
+                <span asp-validation-for="Price"
+                      class="field-error">
+                </span>
+
+            </div>
+
+
+            <div class="form-group">
+
+                <label asp-for="DurationHours">
+                    Duration (Hours)
+                </label>
+
+                <input asp-for="DurationHours"
+                       type="number"
+                       class="form-control" />
+
+                <span asp-validation-for="DurationHours"
+                      class="field-error">
+                </span>
+
+            </div>
+
+        </div>
+
+
+        <div class="form-actions">
+
+            <a asp-action="Index"
+               class="cancel-btn">
+                Cancel
+            </a>
+
+            <button type="submit"
+                    class="save-btn">
+                Save Changes
+            </button>
+
+        </div>
+
+    </form>
+
+</div>
+
+
+<style>
+
+    .form-container {
+        max-width: 750px;
+        margin: 0 auto;
+        padding: 40px 20px;
+        font-family:
+            -apple-system,
+            BlinkMacSystemFont,
+            "Segoe UI",
+            Roboto,
+            sans-serif;
+    }
+
+    .form-header {
+        margin-bottom: 30px;
+    }
+
+    .form-header h1 {
+        margin-bottom: 5px;
+        color: #1e293b;
+    }
+
+    .form-header p {
+        color: #64748b;
+    }
+
+    .ticket-form {
+        background: white;
+        border: 1px solid #e2e8f0;
+        border-radius: 10px;
+        padding: 30px;
+    }
+
+    .form-row {
+        display: flex;
+        gap: 20px;
+    }
+
+    .form-row .form-group {
+        flex: 1;
+    }
+
+    .form-group {
+        margin-bottom: 20px;
+    }
+
+    .form-group label {
+        display: block;
+        margin-bottom: 7px;
+        font-weight: 600;
+        color: #334155;
+    }
+
+    .form-control {
+        width: 100%;
+        box-sizing: border-box;
+        padding: 11px 12px;
+        border: 1px solid #cbd5e1;
+        border-radius: 6px;
+        font-size: 1rem;
+    }
+
+    .validation-summary {
+        color: #b91c1c;
+        background: #fee2e2;
+        padding: 10px;
+        border-radius: 6px;
+        margin-bottom: 20px;
+    }
+
+    .field-error {
+        color: #dc2626;
+        font-size: 0.85rem;
+    }
+
+    .form-actions {
+        display: flex;
+        justify-content: flex-end;
+        gap: 10px;
+        margin-top: 25px;
+    }
+
+    .save-btn,
+    .cancel-btn {
+        padding: 11px 20px;
+        border-radius: 6px;
+        text-decoration: none;
+        border: none;
+        font-weight: 600;
+        cursor: pointer;
+    }
+
+    .save-btn {
+        background: #0071c5;
+        color: white;
+    }
+
+    .cancel-btn {
+        background: #e2e8f0;
+        color: #334155;
+    }
+
+</style>
