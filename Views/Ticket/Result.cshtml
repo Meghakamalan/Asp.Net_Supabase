@@ -1,0 +1,334 @@
+@model TicketTracker.Models.RouteResult
+@using TicketTracker.Services
+
+@{
+    ViewData["Title"] = "Flight Result";
+    var mapPoints = ViewBag.MapPoints as List<MapPoint> ?? new List<MapPoint>();
+    var departureTown = mapPoints.FirstOrDefault()?.CityName ?? "Origin";
+    var destinationTown = mapPoints.LastOrDefault()?.CityName ?? "Destination";
+}
+
+<!-- Include Leaflet CSS and JS -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+<div class="result-container">
+
+    <!-- Top Summary Header Bar (WestJet Style) -->
+    <div class="top-summary-bar">
+        <div class="summary-info">
+            <a asp-controller="Ticket" asp-action="Index" class="modify-search-link"> Search Again</a>
+            <div class="route-header">
+                <h2>@departureTown <span> &#9992;</span> @destinationTown</h2>
+                @* <span class="badge @(Model.IsDirect ? "badge-direct" : "badge-connecting")">
+                    @(Model.IsDirect ? "Direct Flight" : $"{Model.Tickets.Count - 1} Layover(s)")
+                </span> *@
+            </div>
+        </div>
+        <div class="summary-price">
+            <span class="price-label">Total Fare:</span>
+            <span class="price-amount">$@Model.TotalPrice</span>
+        </div>
+    </div>
+
+    <!-- Main Content Area: Left Flight Details, Right Interactive Map -->
+    <div class="result-grid">
+
+        <!-- Left Column: Flight Breakdown -->
+        <div class="flight-details-col">
+            <h3 class="section-title">Flight Summary</h3>
+
+            @for (int i = 0; i < Model.Tickets.Count; i++)
+            {
+                var ticket = Model.Tickets[i];
+
+                <div class="flight-card">
+                    <div class="flight-card-header">
+                        <span class="flight-number">Flight @(i + 1)</span>
+                        <span class="airline-name">@(ticket.Airline ?? "Standard Airways")</span>
+                    </div>
+
+                    <div class="flight-route-line">
+                        <div class="city-info">
+                            <h4>@ticket.FromTown.Name</h4>
+                            <span class="role-tag">Departure</span>
+                        </div>
+
+                        <div class="flight-path">
+                            <span class="duration">@ticket.DurationHours hrs</span>
+                            <div class="dotted-line">
+                                <span class="plane-icon">✈</span>
+                            </div>
+                        </div>
+
+                        <div class="city-info text-right">
+                            <h4>@ticket.ToTown.Name</h4>
+                            <span class="role-tag">Arrival</span>
+                        </div>
+                    </div>
+
+                    <div class="flight-card-footer">
+                        <span>Price: <b>$@ticket.Price</b></span>
+                    </div>
+                </div>
+
+                @if (i < Model.Tickets.Count - 1)
+                {
+                    <div class="layover-divider">
+                        <span>Layover at <b>@ticket.ToTown.Name</b></span>
+                    </div>
+                }
+            }
+
+            <div class="travel-summary-card">
+                <span><b>Total Duration:</b> @Model.TotalDurationHours Hours</span>
+                <span><b>Route:</b> @Model.Summary</span>
+            </div>
+        </div>
+
+        <!-- Right Column: Interactive Route Map -->
+        <div class="map-col">
+            <h3 class="section-title">Route Map</h3>
+            <div id="routeMap" class="map-container"></div>
+        </div>
+
+    </div>
+</div>
+
+<!-- Map Script using C# Razor Loop -->
+@if (mapPoints.Any())
+{
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            var map = L.map('routeMap').setView([@mapPoints[0].Latitude, @mapPoints[0].Longitude], 5);
+
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                maxZoom: 18,
+                attribution: '© OpenStreetMap'
+            }).addTo(map);
+
+            var routeCoordinates = [];
+
+            @foreach (var point in mapPoints)
+            {
+                <text>
+                routeCoordinates.push([@point.Latitude, @point.Longitude]);
+
+                L.marker([@point.Latitude, @point.Longitude])
+                    .addTo(map)
+                    .bindPopup("<b>@point.Label: @point.CityName</b>");
+                </text>
+            }
+
+            var polyline = L.polyline(routeCoordinates, { color: '#0071c5', weight: 4, dashArray: '6, 6' }).addTo(map);
+            map.fitBounds(polyline.getBounds(), { padding: [30, 30] });
+        });
+    </script>
+}
+
+<!-- Custom Styles for WestJet-like layout -->
+<style>
+    .result-container {
+        max-width: 1100px;
+        margin: 0 auto;
+        padding: 20px;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    }
+
+    /* Top Summary Bar */
+    .top-summary-bar {
+        background-color: #f4f6f8;
+        border: 1px solid #e2e8f0;
+        border-radius: 8px;
+        padding: 16px 24px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 24px;
+        box-shadow: 0 2px 6px rgba(0,0,0,0.04);
+    }
+
+    .modify-search-link {
+        color: #0071c5;
+        text-decoration: none;
+        font-size: 0.9rem;
+        font-weight: 600;
+    }
+
+    .route-header {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        margin-top: 4px;
+    }
+
+    .route-header h2 {
+        margin: 0;
+        font-size: 1.5rem;
+        color: #1e293b;
+    }
+
+    .badge {
+        padding: 4px 12px;
+        border-radius: 12px;
+        font-size: 0.8rem;
+        font-weight: 600;
+    }
+
+    .badge-direct {
+        background-color: #e6f4ea;
+        color: #137333;
+    }
+
+    .badge-connecting {
+        background-color: #fef7e0;
+        color: #b06000;
+    }
+
+    .summary-price {
+        text-align: right;
+    }
+
+    .price-label {
+        display: block;
+        font-size: 0.85rem;
+        color: #64748b;
+    }
+
+    .price-amount {
+        font-size: 1.8rem;
+        font-weight: 700;
+        color: #0071c5;
+    }
+
+    /* Grid Layout */
+    .result-grid {
+        display: flex;
+        gap: 24px;
+        flex-wrap: wrap;
+    }
+
+    .flight-details-col {
+        flex: 1.2;
+        min-width: 320px;
+    }
+
+    .map-col {
+        flex: 1;
+        min-width: 320px;
+    }
+
+    .section-title {
+        font-size: 1.2rem;
+        color: #334155;
+        margin-bottom: 16px;
+    }
+
+    /* Flight Cards */
+    .flight-card {
+        background: #ffffff;
+        border: 1px solid #cbd5e1;
+        border-radius: 8px;
+        padding: 16px 20px;
+        margin-bottom: 12px;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    }
+
+    .flight-card-header {
+        display: flex;
+        justify-content: space-between;
+        font-size: 0.85rem;
+        color: #64748b;
+        margin-bottom: 12px;
+    }
+
+    .flight-route-line {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .city-info h4 {
+        margin: 0;
+        font-size: 1.2rem;
+        color: #0f172a;
+    }
+
+    .role-tag {
+        font-size: 0.75rem;
+        color: #94a3b8;
+    }
+
+    .flight-path {
+        flex: 1;
+        text-align: center;
+        margin: 0 16px;
+    }
+
+    .duration {
+        font-size: 0.8rem;
+        color: #64748b;
+    }
+
+    .dotted-line {
+        position: relative;
+        border-top: 2px dashed #cbd5e1;
+        margin-top: 6px;
+    }
+
+    .plane-icon {
+        position: absolute;
+        top: -12px;
+        left: 50%;
+        transform: translateX(-50%);
+        background: #fff;
+        padding: 0 4px;
+        color: #0071c5;
+    }
+
+    .flight-card-footer {
+        margin-top: 12px;
+        padding-top: 8px;
+        border-top: 1px solid #f1f5f9;
+        font-size: 0.9rem;
+        color: #334155;
+        text-align: right;
+    }
+
+    .layover-divider {
+        text-align: center;
+        margin: 12px 0;
+        font-size: 0.85rem;
+        color: #d97706;
+        background: #fffbeb;
+        padding: 6px;
+        border-radius: 6px;
+    }
+
+    .travel-summary-card {
+        background: #f8fafc;
+        border: 1px solid #e2e8f0;
+        border-radius: 8px;
+        padding: 12px 16px;
+        display: flex;
+        justify-content: space-between;
+        font-size: 0.9rem;
+        color: #475569;
+        margin-top: 16px;
+    }
+
+    /* Map Styling */
+    .map-container {
+        height: 420px;
+        width: 100%;
+        border-radius: 8px;
+        border: 1px solid #cbd5e1;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    }
+
+    .text-right {
+        text-align: right;
+    }
+
+    
+</style>

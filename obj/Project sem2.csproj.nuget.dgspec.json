@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/Project sem2.csproj": {}
+    "/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/TicketTracker/Project sem2.csproj": {}
   },
   "projects": {
-    "/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/Project sem2.csproj": {
+    "/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/TicketTracker/Project sem2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/Project sem2.csproj",
+        "projectUniqueName": "/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/TicketTracker/Project sem2.csproj",
         "projectName": "Project sem2",
-        "projectPath": "/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/Project sem2.csproj",
+        "projectPath": "/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/TicketTracker/Project sem2.csproj",
         "packagesPath": "/Users/megha/.nuget/packages/",
-        "outputPath": "/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/Lab2/obj/",
+        "outputPath": "/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/TicketTracker/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/megha/.nuget/NuGet/NuGet.Config"

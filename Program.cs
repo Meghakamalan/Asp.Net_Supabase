@@ -1,37 +1,19 @@
 using Microsoft.EntityFrameworkCore;
-using Project_sem2.Models;
-using Project_sem2.Service;
-
+using TicketTracker.Models;
+using TicketTracker.Services;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
-//builder.Services.AddDbContext<AppointmentDbContext>(options =>
-//options.UseMySql("server=localhost;port=3306;database=AppointmentManager;user=root;password=root;",
-//ServerVersion.AutoDetect("server=localhost;port=3306;database=AppointmentManager;user=root;password=root;")));
-
-
-//this is for postgres database connection from supabase 
-builder.Services.AddDbContext<AppointmentDbContext>(options =>
-options.UseNpgsql(
-    builder.Configuration.GetConnectionString("DefaultConnection"),
-    o =>
-    {
-        o.CommandTimeout(60);
-        o.EnableRetryOnFailure(
-            maxRetryCount: 5,
-            maxRetryDelay: TimeSpan.FromSeconds(10),
-            errorCodesToAdd: null
-        );
-    }
-    )
-);
-
-
-    builder.Services.AddScoped<AppointmentService>();
-    builder.Services.AddScoped<MassageService>();
-
+// Add the TicketDbContext to the services container
+// This allows the application to use the TicketDbContext for database operations
+// this line is configuring the TicketDbContext to use a PostgreSQL database provider with the connection string specified in the appsettings.json file under the "Default Connection" key. 
+//This allows the application to connect to the PostgreSQL database and perform CRUD operations on the entities defined in the model.
+builder.Services.AddDbContext<TicketDbContext>(options =>
+    options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
+//this is called dependency injection, it allows us to inject the TicketDbContext into our controllers and services, so we can use it to interact with the database.
+builder.Services.AddScoped<TicketServices>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -51,7 +33,7 @@ app.MapStaticAssets();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}")
+    pattern: "{controller=Ticket}/{action=Index}/{id?}")
     .WithStaticAssets();
 
 

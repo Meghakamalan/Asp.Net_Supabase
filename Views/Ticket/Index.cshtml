@@ -1,0 +1,185 @@
+@{
+    ViewData["Title"] = "Find Cheapest Ticket";
+}
+
+<div class="search-hero-container">
+    <!-- Main Heading & Subheading -->
+    <h1 class="hero-title">Find Cheap Flight Routes</h1>
+    <p class="hero-subtitle">Discover the lowest fares and best connections across cities!</p>
+
+    <!-- Error Alert -->
+    @if (ViewBag.Error != null)
+    {
+        <div class="error-banner">
+             @ViewBag.Error
+        </div>
+    }
+
+    <!-- Pill-Style Search Bar Form -->
+    <form asp-controller="Ticket" asp-action="FindCheapest" method="post" class="search-pill-form">
+        
+        <!-- From Field -->
+        <div class="field-group">
+            @* <span class="field-icon">🛫</span> *@
+            <div class="input-wrapper">
+                <label for="fromTownId"> Flying From</label>
+                <select id="fromTownId" name="fromTownId" asp-items="ViewBag.Towns" class="custom-select">
+                    <option disabled selected></option>
+                </select>
+            </div>
+        </div>
+
+        <div class="divider"></div>
+
+        <!-- To Field -->
+        <div class="field-group">
+            @* <span class="field-icon">🛬</span> *@
+            <div class="input-wrapper">
+                <label for="toTownId">Flying To</label>
+                <select id="toTownId" name="toTownId" asp-items="ViewBag.Towns" class="custom-select">
+                    <option disabled selected></option>
+                </select>
+            </div>
+        </div>
+
+        <!-- Submit Button -->
+        <button type="submit" class="search-btn">
+            Search
+        </button>
+    </form>
+</div>
+
+<!-- Styling -->
+<style>
+    .search-hero-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding: 60px 20px;
+        text-align: center;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    }
+
+    .hero-title {
+        font-size: 2.5rem;
+        font-weight: 700;
+        color: #1a1a1a;
+        margin-bottom: 8px;
+    }
+
+    .hero-subtitle {
+        font-size: 1.1rem;
+        color: #666;
+        margin-bottom: 32px;
+    }
+
+    .error-banner {
+        background-color: #fde8e8;
+        color: #e02424;
+        padding: 10px 20px;
+        border-radius: 8px;
+        margin-bottom: 20px;
+        font-size: 0.95rem;
+    }
+
+    /* Outer Pill Container */
+    .search-pill-form {
+        display: flex;
+        align-items: center;
+        background: #ffffff;
+        border: 1px solid #e0e0e0;
+        border-radius: 50px;
+        padding: 6px 8px 6px 24px;
+        box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+        width: 100%;
+        max-width: 750px;
+    }
+
+    /* Individual Field Groups */
+    .field-group {
+        display: flex;
+        align-items: center;
+        flex: 1;
+        gap: 12px;
+        text-align: left;
+    }
+
+    .field-icon {
+        font-size: 1.2rem;
+    }
+
+    .input-wrapper {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .input-wrapper label {
+        font-size: 0.75rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        color: #888;
+        margin-bottom: 2px;
+    }
+
+    /* Dropdown Styling */
+    .custom-select {
+        border: none;
+        background: transparent;
+        font-size: 1rem;
+        font-weight: 600;
+        color: #333;
+        outline: none;
+        cursor: pointer;
+        width: 100%;
+        padding-right: 10px;
+    }
+
+    /* Vertical Divider */
+    .divider {
+        width: 1px;
+        height: 36px;
+        background-color: #e5e7eb;
+        margin: 0 16px;
+    }
+
+    /* Pill Action Button */
+    .search-btn {
+        background-color: #ff1744;
+        color: white;
+        border: none;
+        padding: 14px 32px;
+        border-radius: 40px;
+        font-size: 1rem;
+        font-weight: 600;
+        cursor: pointer;
+        transition: background-color 0.2s ease, transform 0.1s ease;
+    }
+
+    .search-btn:hover {
+        background-color: #d50000;
+    }
+
+    /* Responsive adjustments for mobile screens */
+    @@media (max-width: 640px) {
+        .search-pill-form {
+            flex-direction: column;
+            border-radius: 16px;
+            padding: 16px;
+            gap: 16px;
+        }
+
+        .divider {
+            display: none;
+        }
+
+        .field-group {
+            width: 100%;
+        }
+
+        .search-btn {
+            width: 100%;
+        }
+    }
+</style>
