@@ -17,72 +17,43 @@ namespace TicketTracker.Controllers
         // GET: /Ticket/Index
         public IActionResult Index()
         {
-            ViewBag.Towns =
-                new SelectList(
-                    _service.GetAllTowns(),
-                    "Id",
-                    "Name"
-                );
-
+            ViewBag.Towns = new SelectList(_service.GetAllTowns(), "Id", "Name");
             return View();
         }
 
         // GET: /Ticket/SearchTicket
         public IActionResult SearchTicket()
         {
-            ViewBag.Towns =
-                new SelectList(
-                    _service.GetAllTowns(),
-                    "Id",
-                    "Name"
-                );
-
+            ViewBag.Towns = new SelectList(_service.GetAllTowns(), "Id", "Name");
             return View();
         }
 
         // POST: /Ticket/FindCheapest
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult FindCheapest(
-            int fromTownId,
-            int toTownId)
+        public IActionResult FindCheapest(int fromTownId, int toTownId)
         {
-            ViewBag.Towns =
-                new SelectList(
-                    _service.GetAllTowns(),
-                    "Id",
-                    "Name"
-                );
+            ViewBag.Towns = new SelectList(_service.GetAllTowns(), "Id", "Name");
 
             // Validate different towns
             if (fromTownId == toTownId)
             {
-                ViewBag.Error =
-                    "Please select two different towns.";
-
+                ViewBag.Error = "Please select two different towns.";
                 return View("Index");
             }
 
             // Find cheapest route
-            var route =
-                _service.FindCheapestRoute(
-                    fromTownId,
-                    toTownId
-                );
+            var route = _service.FindCheapestRoute(fromTownId, toTownId);
 
             // No route found
             if (route == null)
             {
-                ViewBag.Error =
-                    "No route found between these towns.";
-
+                ViewBag.Error = "No route found between these towns.";
                 return View("Index");
             }
 
             // Generate map points
-            ViewBag.MapPoints =
-                _service.GetRouteMapPoints(route);
-
+            ViewBag.MapPoints = _service.GetRouteMapPoints(route);
             return View("Result", route);
         }
     }

@@ -4,15 +4,12 @@ namespace TicketTracker.Models
 {
     public class TicketDbContext : DbContext
     {
-        public TicketDbContext(
-            DbContextOptions<TicketDbContext> options
-        ) : base(options)
+        public TicketDbContext(DbContextOptions<TicketDbContext> options) : base(options)
         {
             Console.WriteLine("DB Connected");
         }
 
         public DbSet<Town> Towns { get; set; }
-
         public DbSet<Ticket> Tickets { get; set; }
 
         // Place it right here

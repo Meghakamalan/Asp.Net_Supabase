@@ -19,10 +19,7 @@ namespace TicketTracker.Models
                     return string.Empty;
                 }
 
-                return string.Join(
-                    " → ",
-                    Tickets.Select(t => t.FromTown.Name)
-                           .Concat(new[]
+                return string.Join(" → ", Tickets.Select(t => t.FromTown.Name).Concat(new[]
                            {
                                Tickets.Last().ToTown.Name
                            })

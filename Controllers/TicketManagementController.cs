@@ -9,28 +9,21 @@ namespace TicketTracker.Controllers
     {
         private readonly TicketServices _service;
 
-        public TicketManagementController(
-            TicketServices service)
+        public TicketManagementController(TicketServices service)
         {
             _service = service;
         }
 
-        // =========================================================
         // READ
-        // =========================================================
 
         // GET: /TicketManagement
         public IActionResult Index()
         {
-            var tickets =
-                _service.GetAllTickets();
-
+            var tickets = _service.GetAllTickets();
             return View(tickets);
         }
 
-        // =========================================================
         // CREATE
-        // =========================================================
 
         // GET: /TicketManagement/Create
         [HttpGet]
@@ -70,22 +63,17 @@ namespace TicketTracker.Controllers
             TempData["Success"] = "Ticket created successfully.";
             return RedirectToAction(nameof(Index));
         }
-        // =========================================================
         // UPDATE
-        // =========================================================
 
         // GET: /TicketManagement/Edit/5
         [HttpGet]
         public IActionResult Edit(int id)
         {
-            var ticket =
-                _service.GetTicketById(id);
-
+            var ticket = _service.GetTicketById(id);
             if (ticket == null)
             {
                 return NotFound();
             }
-
             LoadTowns(ticket.FromTownId);
 
             return View(ticket);
@@ -111,16 +99,12 @@ namespace TicketTracker.Controllers
             return RedirectToAction(nameof(Index));
         }
 
-        // =========================================================
         // DELETE
-        // =========================================================
-
         // GET: /TicketManagement/Delete/5
         [HttpGet]
         public IActionResult Delete(int id)
         {
-            var ticket =
-                _service.GetTicketById(id);
+            var ticket = _service.GetTicketById(id);
 
             if (ticket == null)
             {
@@ -136,61 +120,38 @@ namespace TicketTracker.Controllers
         [ActionName("Delete")]
         public IActionResult DeleteConfirmed(int id)
         {
-            var deleted =
-                _service.DeleteTicket(id);
+            var deleted = _service.DeleteTicket(id);
 
             if (!deleted)
             {
                 return NotFound();
             }
 
-            TempData["Success"] =
-                "Ticket deleted successfully.";
-
+            TempData["Success"] = "Ticket deleted successfully.";
             return RedirectToAction(nameof(Index));
         }
 
-        // =========================================================
         // HELPER METHODS
-        // =========================================================
 
         private void LoadTowns(int? selectedTownId = null)
         {
-            ViewBag.Towns =
-                new SelectList(
-                    _service.GetAllTowns(),
-                    "Id",
-                    "Name",
-                    selectedTownId
-                );
+            ViewBag.Towns = new SelectList(_service.GetAllTowns(), "Id", "Name", selectedTownId);
         }
-
-        private void ValidateTicketRoute(
-            Ticket ticket)
+        private void ValidateTicketRoute(Ticket ticket)
         {
-            if (ticket.FromTownId ==
-                ticket.ToTownId)
+            if (ticket.FromTownId == ticket.ToTownId)
             {
-                ModelState.AddModelError(
-                    "",
-                    "Departure and destination must be different."
-                );
+                ModelState.AddModelError("", "Departure and destination must be different.");
             }
 
             if (ticket.Price <= 0)
             {
-                ModelState.AddModelError(
-                    "Price",
-                    "Price must be greater than zero."
-                );
+                ModelState.AddModelError("Price", "Price must be greater than zero.");
             }
 
             if (ticket.DurationHours <= 0)
             {
-                ModelState.AddModelError(
-                    "DurationHours",
-                    "Duration must be greater than zero."
-                );
+                ModelState.AddModelError("DurationHours", "Duration must be greater than zero.");
             }
         }
     }
