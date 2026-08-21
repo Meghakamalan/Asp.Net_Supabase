@@ -19,65 +19,65 @@ build_property.TargetFrameworkIdentifier = .NETCoreApp
 build_property.TargetFrameworkVersion = v10.0
 build_property.RootNamespace = Project_sem2
 build_property.RootNamespace = Project_sem2
-build_property.ProjectDir = /Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/TicketTracker_ASP.NET_Project/Pet_Project/TicketTracker/
+build_property.ProjectDir = /Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/TicketTracker_ASP.NET_Project/TicketTracker/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/TicketTracker_ASP.NET_Project/Pet_Project/TicketTracker
+build_property.MSBuildProjectDirectory = /Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/TicketTracker_ASP.NET_Project/TicketTracker
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
-[/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/TicketTracker_ASP.NET_Project/Pet_Project/TicketTracker/Views/Home/Index.cshtml]
+[/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/TicketTracker_ASP.NET_Project/TicketTracker/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/TicketTracker_ASP.NET_Project/Pet_Project/TicketTracker/Views/Home/Privacy.cshtml]
+[/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/TicketTracker_ASP.NET_Project/TicketTracker/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/TicketTracker_ASP.NET_Project/Pet_Project/TicketTracker/Views/Shared/Error.cshtml]
+[/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/TicketTracker_ASP.NET_Project/TicketTracker/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/TicketTracker_ASP.NET_Project/Pet_Project/TicketTracker/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/TicketTracker_ASP.NET_Project/TicketTracker/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/TicketTracker_ASP.NET_Project/Pet_Project/TicketTracker/Views/Ticket/Index.cshtml]
+[/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/TicketTracker_ASP.NET_Project/TicketTracker/Views/Ticket/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlja2V0L0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/TicketTracker_ASP.NET_Project/Pet_Project/TicketTracker/Views/Ticket/Result.cshtml]
+[/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/TicketTracker_ASP.NET_Project/TicketTracker/Views/Ticket/Result.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlja2V0L1Jlc3VsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/TicketTracker_ASP.NET_Project/Pet_Project/TicketTracker/Views/TicketManagement/Create.cshtml]
+[/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/TicketTracker_ASP.NET_Project/TicketTracker/Views/TicketManagement/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlja2V0TWFuYWdlbWVudC9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/TicketTracker_ASP.NET_Project/Pet_Project/TicketTracker/Views/TicketManagement/Delete.cshtml]
+[/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/TicketTracker_ASP.NET_Project/TicketTracker/Views/TicketManagement/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlja2V0TWFuYWdlbWVudC9EZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/TicketTracker_ASP.NET_Project/Pet_Project/TicketTracker/Views/TicketManagement/Edit.cshtml]
+[/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/TicketTracker_ASP.NET_Project/TicketTracker/Views/TicketManagement/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlja2V0TWFuYWdlbWVudC9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/TicketTracker_ASP.NET_Project/Pet_Project/TicketTracker/Views/TicketManagement/Index.cshtml]
+[/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/TicketTracker_ASP.NET_Project/TicketTracker/Views/TicketManagement/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlja2V0TWFuYWdlbWVudC9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/TicketTracker_ASP.NET_Project/Pet_Project/TicketTracker/Views/_ViewImports.cshtml]
+[/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/TicketTracker_ASP.NET_Project/TicketTracker/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/TicketTracker_ASP.NET_Project/Pet_Project/TicketTracker/Views/_ViewStart.cshtml]
+[/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/TicketTracker_ASP.NET_Project/TicketTracker/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/TicketTracker_ASP.NET_Project/Pet_Project/TicketTracker/Views/Shared/_Layout.cshtml]
+[/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/TicketTracker_ASP.NET_Project/TicketTracker/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-w6nf3324o8

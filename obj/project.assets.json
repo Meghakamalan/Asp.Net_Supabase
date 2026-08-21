@@ -2214,11 +2214,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/TicketTracker_ASP.NET_Project/Pet_Project/TicketTracker/TicketTracker.csproj",
+      "projectUniqueName": "/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/TicketTracker_ASP.NET_Project/TicketTracker/TicketTracker.csproj",
       "projectName": "TicketTracker",
-      "projectPath": "/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/TicketTracker_ASP.NET_Project/Pet_Project/TicketTracker/TicketTracker.csproj",
+      "projectPath": "/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/TicketTracker_ASP.NET_Project/TicketTracker/TicketTracker.csproj",
       "packagesPath": "/Users/megha/.nuget/packages/",
-      "outputPath": "/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/TicketTracker_ASP.NET_Project/Pet_Project/TicketTracker/obj/",
+      "outputPath": "/Users/megha/Desktop/humber/semester_2/http_5226_backend_webdev2/TicketTracker_ASP.NET_Project/TicketTracker/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/megha/.nuget/NuGet/NuGet.Config"
